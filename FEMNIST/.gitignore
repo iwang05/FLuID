@@ -1,0 +1,7 @@
+.idea
+/client/.idea
+.gradle
+/client/.gradle
+/results/
+/dynamic/
+/prelim_results/

@@ -1,0 +1,5 @@
+.idea
+/client/.idea
+.gradle
+/results/
+/client/.gradle
